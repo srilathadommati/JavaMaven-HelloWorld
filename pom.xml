@@ -6,7 +6,7 @@
 
     <groupId>helloworld</groupId>
     <artifactId>HelloWorld</artifactId>
-    <version>1.0-1SNAPSHOT</version>
+    <version>1.0-12SNAPSHOT</version>
 
     <build>
         <plugins>
